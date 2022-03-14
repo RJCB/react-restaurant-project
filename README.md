@@ -8,3 +8,7 @@
 
 ## 3rd party Packages used:
  - <a href="https://www.npmjs.com/package/react-icons">React-icons</a> for icons
+
+## Useful resources:
+- BEM:Block__element--modifier (https://sparkbox.com/foundry/bem_by_example)
+- Create a video player in React (https://dev.to/franciscomendes10866/how-to-create-a-video-player-in-react-40jj)
